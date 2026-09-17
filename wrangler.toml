@@ -1,0 +1,6 @@
+name = "github-trending-feed-dispatcher"
+main = "src/index.js"
+compatibility_date = "2026-09-17"
+
+[triggers]
+crons = ["17 1,7,13,19 * * *"]
